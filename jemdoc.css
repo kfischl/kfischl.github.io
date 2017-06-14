@@ -52,11 +52,11 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: garmond, monospace;
+	font-family: monaco, monospace;
 }
 
 a, a > tt {
-	color: #18B276;
+	color: #006666;
 	text-decoration: none;
 }
 
@@ -69,7 +69,7 @@ a:hover {
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #009999; ##527bbd;
+	color: #009999;
 	text-decoration: none;
 }
 #layout-menu a:hover {
